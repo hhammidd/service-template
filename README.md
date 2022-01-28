@@ -5,6 +5,7 @@
 ## Packaging
 
 ## Swagger
+http://localhost:<port_number>/swagger-ui/index.html
 ## Databases config
 ### Postgres
 
